@@ -46,7 +46,4 @@ No API keys. No charges. No data leaves your system.
 | Intent Detection | BART-MNLI |
 | Reply Generation | FLAN-T5-Base |
 
----
-
-## 📂 Project Structure
 
